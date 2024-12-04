@@ -229,8 +229,15 @@ Timeline of representative RS-TVLMs:
 If you find our survey and repository useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{liu2024remote,
-  title={Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey},
+@misc{liu2024remotesensingtemporalvisionlanguage,
+      title={Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey}, 
+      author={Chenyang Liu and Jiafan Zhang and Keyan Chen and Man Wang and Zhengxia Zou and Zhenwei Shi},
+      year={2024},
+      eprint={2412.02573},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.02573}, 
+}
 ```
 
 ## 🐲 Contact <a id="Contact"></a>
