@@ -4,7 +4,6 @@
 <p align="center">
   <h1 align="center">Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey</h1>
   <p align="center">
-    <b> arXiv, 2024 </b>
     <br />
     <a href="https://chen-yang-liu.github.io/"><strong>Chenyang Liu </strong></a>
     ·
