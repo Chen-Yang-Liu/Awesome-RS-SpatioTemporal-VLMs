@@ -32,7 +32,10 @@
 
 This repo is used for recording, and tracking recent Remote Sensing Temporal Vision-Language Models (RS-TVLMs). If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls).
 
-### 🙌 Add Your Paper in our Repo and Survey!!!!!
+### :star: This repo.
+Share us a :star: if you're interested in this repo. We will continue to track relevant progress and update this repository.
+
+### 🙌 Add Your Paper in our Repo and Survey!
 
 - You are welcome to give us an issue or PR for your RS-TVLM work !!!!! We will record it for next version update of our survey
 
