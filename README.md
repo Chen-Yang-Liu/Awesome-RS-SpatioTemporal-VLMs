@@ -182,6 +182,7 @@ Timeline of representative RS-TVLMs:
 | LEVIR CCD |    256×256 (0.5m)     |     500     |  2,500   |   Manual   |   [Link](https://disi.unitn.it/~melgani/datasets.html)    |
 | LEVIR-CC  |    256×256 (0.5m)     |   10,077    |  50,385  |   Manual   | [Link](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset) |
 |  WHU-CDC  |   256×256 (0.075m)    |    7,434    |  37,170  |   Manual   | [Link](https://huggingface.co/datasets/hygge10111/RS-CDC) |
+|  SECOND-CC  |   256×256 (0.3~3m)    |    6,041    |  30,205  |   Manual   | [Link](https://github.com/ChangeCapsInRS/SecondCC) |
 
 
 
