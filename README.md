@@ -226,22 +226,36 @@ Timeline of representative RS-TVLMs:
 ### ......
 
 
-### 👨‍🏫 Other Survey <a id="Other-Survey"></a>
+[//]: # (### 👨‍🏫 Other Survey <a id="Other-Survey"></a>)
 
-| Year  | Paper Title                                                                                                                                                                       |
-|:-----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023  | [An Agenda for Multimodal Foundation Models for Earth Observation](https://ieeexplore.ieee.org/abstract/document/10282966)                                                        |
-| 2023  | [Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works](https://ieeexplore.ieee.org/abstract/document/10126079)                       |
-| 2023  | [Large Remote Sensing Model: Progress and Prospects](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341)                                                               |
-| 2023  | [Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10254282)                               |
-| 2023  | [On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications](https://arxiv.org/abs/2312.17016) |
-| 2024  | [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)                                                                  |
-| 2024  | [On the Foundations of Earth and Climate Foundation Models](https://arxiv.org/abs/2405.04285)                                                                                     |
-| 2024  | [Towards Vision-Language Geo-Foundation Model: A Survey](http://arxiv.org/abs/2406.09385)                                                                                         | 
-| 2024  | [Language Integration in Remote Sensing: Tasks, datasets, and future directions](https://ieeexplore.ieee.org/document/10278197/?arnumber=10278197)                                |
-| 2024  | [Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques](http://arxiv.org/abs/2410.17283)                                  |
-| 2024  | [An LLM Agent for Automatic Geospatial Data Analysis](http://arxiv.org/abs/2410.18792)                                                                                 |
-| 2024  | [COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models](http://arxiv.org/abs/2411.18145)|
+[//]: # ()
+[//]: # (| Year  | Paper Title                                                                                                                                                                       |)
+
+[//]: # (|:-----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|)
+
+[//]: # (| 2023  | [An Agenda for Multimodal Foundation Models for Earth Observation]&#40;https://ieeexplore.ieee.org/abstract/document/10282966&#41;                                                        |)
+
+[//]: # (| 2023  | [Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works]&#40;https://ieeexplore.ieee.org/abstract/document/10126079&#41;                       |)
+
+[//]: # (| 2023  | [Large Remote Sensing Model: Progress and Prospects]&#40;http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341&#41;                                                               |)
+
+[//]: # (| 2023  | [Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey]&#40;https://ieeexplore.ieee.org/abstract/document/10254282&#41;                               |)
+
+[//]: # (| 2023  | [On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications]&#40;https://arxiv.org/abs/2312.17016&#41; |)
+
+[//]: # (| 2024  | [Vision-Language Models in Remote Sensing: Current Progress and Future Trends]&#40;https://arxiv.org/abs/2305.05726&#41;                                                                  |)
+
+[//]: # (| 2024  | [On the Foundations of Earth and Climate Foundation Models]&#40;https://arxiv.org/abs/2405.04285&#41;                                                                                     |)
+
+[//]: # (| 2024  | [Towards Vision-Language Geo-Foundation Model: A Survey]&#40;http://arxiv.org/abs/2406.09385&#41;                                                                                         | )
+
+[//]: # (| 2024  | [Language Integration in Remote Sensing: Tasks, datasets, and future directions]&#40;https://ieeexplore.ieee.org/document/10278197/?arnumber=10278197&#41;                                |)
+
+[//]: # (| 2024  | [Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques]&#40;http://arxiv.org/abs/2410.17283&#41;                                  |)
+
+[//]: # (| 2024  | [An LLM Agent for Automatic Geospatial Data Analysis]&#40;http://arxiv.org/abs/2410.18792&#41;                                                                                 |)
+
+[//]: # (| 2024  | [COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models]&#40;http://arxiv.org/abs/2411.18145&#41;|)
 
 
 
