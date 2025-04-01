@@ -43,9 +43,9 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ### 🥳 New
 
-🔥🔥🔥 Updated on 2024.12.04 🔥🔥🔥
+🔥🔥🔥 The rep is updating 🔥🔥🔥
 
-- **2024.12.04**: The first version is available.
+[//]: # (- **2024.12.04**: The first version is available.)
 
 
 
