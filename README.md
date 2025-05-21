@@ -30,14 +30,14 @@
   </p>
 <br />
 
-This repo is used for recording, and tracking recent Remote Sensing Temporal Vision-Language Models (RS-TVLMs). If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls).
+This repo is used for recording, and tracking recent Remote Sensing Spatio-Temporal Vision-Language Models (RS-STVLMs). If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls).
 
 ### :star: Share us a :star:
 Share us a :star: if you're interested in this repo. We will continue to track relevant progress and update this repository.
 
 ### 🙌 Add Your Paper in our Repo and Survey!
 
-- You are welcome to give us an issue or PR for your RS-TVLM work !!!!! We will record it for next version update of our survey
+- You are welcome to give us an issue or PR for your RS-STVLM work !!!!! We will record it for next version update of our survey
 
 
 
@@ -51,7 +51,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ### ✨ Highlight!!
 
--  The first survey for Remote Sensing Temporal Vision-Language models.
+-  The first survey for Remote Sensing Spatio-Temporal Vision-Language models.
 
 -  Some public datasets and code links are provided. 
 
@@ -59,7 +59,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ## 📖 Introduction
 
-Timeline of representative RS-TVLMs:
+Timeline of RS-STVLMs:
 
 ![Alt Text](fig/overview2.png)
 
@@ -303,7 +303,7 @@ If you find our survey and repository useful for your research, please consider 
 
 ```bibtex
 @misc{liu2024remotesensingtemporalvisionlanguage,
-      title={Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey}, 
+      title={Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey}, 
       author={Chenyang Liu and Jiafan Zhang and Keyan Chen and Man Wang and Zhengxia Zou and Zhenwei Shi},
       year={2024},
       eprint={2412.02573},
