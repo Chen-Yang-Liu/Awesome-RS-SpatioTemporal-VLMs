@@ -51,7 +51,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ### ✨ Highlight!!
 
--  The first survey for Remote Sensing Spatio-Temporal Vision-Language models.
+-  The first survey for Remote Sensing Spatio-Temporal Vision-Language Models.
 
 -  Some public datasets and code links are provided. 
 
