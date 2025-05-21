@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls)
 <br />
 <p align="center">
-  <h1 align="center">Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey</h1>
+  <h1 align="center">Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey</h1>
   <p align="center">
     <br />
     <a href="https://chen-yang-liu.github.io/"><strong>Chenyang Liu </strong></a>
