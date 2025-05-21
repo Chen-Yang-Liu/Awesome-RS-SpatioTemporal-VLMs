@@ -77,8 +77,8 @@ Timeline of representative RS-TVLMs:
   - [LLM-driven Remote Sensing Vision-Language Agents](#LLM-driven-Remote-Sensing-Vision-Language-Agents)
   - ......
 - [📊 Dataset](#Dataset)
-  - [Matching Temporal Images, Text, and Masks](#Matching-Temporal-Images,-Text,-and-Masks)
-  - [Matching Temporal Images, Instruction and Response](#Matching-Temporal-Images,-Instruction-and-Response)
+  - [Matching Temporal Images, Text, and Masks](#Dataset_1)  
+  - [Matching Temporal Images, Instruction and Response](#Dataset_2)
   - ......
 - [📊 Others](#Others)
 - [🖊️ Citation](#Citation)
@@ -186,7 +186,7 @@ Timeline of representative RS-TVLMs:
 
 ## Large Language Models Meets Temporal Images
 
-### Task-Specific Spatio-Temporal VLMs
+### LLM-driven Task-Specific Spatio-Temporal VLMs
 |   Time    |   Method    | Paper Title                                                                                                                                                                            |      LLM      |     LLM     |  Fine-tuning  |                      Code/Project                      |
 |:---------:|:-----------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|:-----------:|:-------------:|:------------------------------------------------------:|
 |  2023.06  |  PromptCC   | [A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/document/10271701)                                                 | CLIP-ViT-B/32 |    GPT-2    | Prompt Tuning |   [link](https://github.com/Chen-Yang-Liu/PromptCC)    |
@@ -227,7 +227,7 @@ Timeline of representative RS-TVLMs:
 
 
 ## 📊 Dataset <a id="Dataset"></a>
-### Matching Temporal Images, Text, and Masks
+### Matching Temporal Images, Text, and Masks  <a id="Dataset_1"></a>
 |   Dataset   | Time  | Image Size | Image Resolution | Image Pairs| Captions*| Masks | **Temporal Image Data Source** | **Anno.** | **Link** |
 |:-----------:|:--------:|:--------------:|:--------------------:|:---------------:|:------------:|:---------:|:------------------------------:|:---------:|:--------:|
 |  DUBAI CCD  | 2022.08 | 50×50 | 30m | 500 | 2,500 | - | Landsat-7 imagery | Manual | [Link](https://disi.unitn.it/~melgani/datasets.html) |
@@ -240,7 +240,7 @@ Timeline of representative RS-TVLMs:
 | SECOND-CC   | 2025.01 | 256×256 | 0.3∼3m | 6,041 | 30,205 | 6 classes | SECOND | Manual | [Link](https://github.com/ChangeCapsInRS/SecondCC) |
 
 
-### Matching Temporal Images, Instruction and Response
+### Matching Temporal Images, Instruction and Response <a id="Dataset_2"></a>
 | **Dataset** | **Time** | **Instruction Samples** | **Number of Images** | **Temporal Length** | **Temporal Image Data Source** | **Anno.** | **Link** |
 |-------------|----------|--------------------------|-----------------------|----------------------|----------------------------------|------------|---------|
 | CDVQA | 2022.09 | 122,000 | 2,968 | 2 | SECOND | Manual | [Link](https://github.com/YZHJessica/CDVQA) |
