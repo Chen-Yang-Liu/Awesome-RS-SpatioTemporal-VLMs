@@ -70,14 +70,17 @@ Timeline of representative RS-TVLMs:
   - [Change Question Answeringg](#change-question-answering)
   - [Text-driven Temporal Images Retrieval](#Text-driven-Temporal-Images-Retrieval)
   - [Change Grounding](#Change-Grounding)
+  - [Text-driven Temporal Images Generation](#Text-driven-Temporal-Images-Generation)
 - [👨‍🏫 Large Language Models Meets Temporal Images](#Large-Language-Models-Meets-Temporal-Images)
+  - [LLM-driven Task-Specific Spatio-Temporal VLMs](#LLM-driven-Task-Specific-Spatio-Temporal-VLMs)
+  - [Unified Spatio-Temporal Vision-Language Foundation Models](#Unified-Spatio-Temporal-Vision-Language-Foundation-Models)
+  - [LLM-driven Remote Sensing Vision-Language Agents](#LLM-driven-Remote-Sensing-Vision-Language-Agents)
   - ......
 - [📊 Dataset](#Dataset)
-  - [Matching Temporal Images and Text](#Matching-Temporal-Images-and-Text)
   - [Matching Temporal Images, Text, and Masks](#Matching-Temporal-Images,-Text,-and-Masks)
-  - [Matching Temporal Images and Question-Answer Instructions](#Matching-Temporal-Images-and-Question-Answer-Instructions)
+  - [Matching Temporal Images, Instruction and Response](#Matching-Temporal-Images,-Instruction-and-Response)
   - ......
-- [👨‍🏫 Other Survey](#Other-Survey)
+- [📊 Others](#Others)
 - [🖊️ Citation](#Citation)
 - [🐲 Contact](#Contact)
 
@@ -222,9 +225,9 @@ Timeline of representative RS-TVLMs:
 | 2025.01  |   RescueADI   |        [RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images With Autonomous Agents](https://ieeexplore.ieee.org/abstract/document/10849780/)        |        Disaster Interpretation        |                                N/A                                 |
 |  ........
 
-## 📊 Dataset <a id="Dataset"></a>
 
-### Datasets matching temporal images and text and that datasets matching temporal images, text and masks.
+## 📊 Dataset <a id="Dataset"></a>
+### Matching Temporal Images, Text, and Masks
 |   Dataset   | Time  | Image Size | Image Resolution | Image Pairs| Captions*| Masks | **Temporal Image Data Source** | **Anno.** | **Link** |
 |:-----------:|:--------:|:--------------:|:--------------------:|:---------------:|:------------:|:---------:|:------------------------------:|:---------:|:--------:|
 |  DUBAI CCD  | 2022.08 | 50×50 | 30m | 500 | 2,500 | - | Landsat-7 imagery | Manual | [Link](https://disi.unitn.it/~melgani/datasets.html) |
@@ -237,7 +240,7 @@ Timeline of representative RS-TVLMs:
 | SECOND-CC   | 2025.01 | 256×256 | 0.3∼3m | 6,041 | 30,205 | 6 classes | SECOND | Manual | [Link](https://github.com/ChangeCapsInRS/SecondCC) |
 
 
-### Datasets matching temporal images, instruction and response
+### Matching Temporal Images, Instruction and Response
 | **Dataset** | **Time** | **Instruction Samples** | **Number of Images** | **Temporal Length** | **Temporal Image Data Source** | **Anno.** | **Link** |
 |-------------|----------|--------------------------|-----------------------|----------------------|----------------------------------|------------|---------|
 | CDVQA | 2022.09 | 122,000 | 2,968 | 2 | SECOND | Manual | [Link](https://github.com/YZHJessica/CDVQA) |
