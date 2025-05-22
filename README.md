@@ -41,7 +41,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 
 
-### 🥳 New
+### 🥳 News
 
 🔥🔥🔥 The rep is updating 🔥🔥🔥
 
@@ -51,9 +51,9 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ### ✨ Highlight!!
 
--  The first survey for Remote Sensing Spatio-Temporal Vision-Language Models.
+✅ The first survey for Remote Sensing Spatio-Temporal Vision-Language Models.
 
--  Some public datasets and code links are provided. 
+✅ Some public datasets and code links are provided. 
 
 
 
@@ -80,14 +80,14 @@ Timeline of RS-STVLMs:
   - [Matching Temporal Images, Text, and Masks](#Dataset_1)  
   - [Matching Temporal Images, Instruction and Response](#Dataset_2)
   - ......
-- [📊 Others](#Others)
+- [💻 Others](#Others) 
 - [🖊️ Citation](#Citation)
 - [🐲 Contact](#Contact)
 
 ## 📚 Remote Sensing Spatio-Temporal Vision-language Tasks and Methods <a id="methods-a-survey"></a>
 ### Change Captioning 
-|   Time   |   Model Name    | Paper Title                                                                                                                                                                            |    Visual Encoder     |         Language Decoder          |                    Code/Project                    |             Publication             |
-|:--------:|:---------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------:|:---------------------------------:|:--------------------------------------------------:|:-----------------------------------:|
+|   Time   |   Model Name    | Paper Title                                                                                                                                                                            |    Visual Encoder     |         Language Decoder          |                    Code/Project                    |    
+|:--------:|:---------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------:|:---------------------------------:|:--------------------------------------------------:|
 | 2021.10  |     CNN-RNN     | [Captioning changes in bi-temporal remote sensing images](https://ieeexplore.ieee.org/abstract/document/9554419)                                                                       |        VGG-16         |                RNN                |                        N/A                         |
 | 2022.08  |   CC-RNN/SVM    | [Change captioning: A new paradigm for multitemporal remote sensing image analysis](https://ieeexplore.ieee.org/abstract/document/9847254)                                             |        VGG-16         |              RNN,SVM              |                        N/A                         |
 | 2022.11  |   RSICCformer   | [Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset](https://ieeexplore.ieee.org/document/9934924)                           |      ResNet-101       |        Transformer Decoder        |   [link](https://github.com/Chen-Yang-Liu/RSICC)   |
@@ -184,7 +184,7 @@ Timeline of RS-STVLMs:
 | 2025.05 |   WHU-GCD   | [Open-vocabulary generative vision-language models for creating a large-scale remote sensing change detection dataset](https://www.sciencedirect.com/science/article/pii/S0924271625001595)  |   [link](https://gpcv.whu.edu.cn/data/)   |
 
 
-## Large Language Models Meets Temporal Images
+## 👨‍🏫 Large Language Models Meets Temporal Images
 
 ### LLM-driven Task-Specific Spatio-Temporal VLMs
 |   Time    |   Method    | Paper Title                                                                                                                                                                            |      LLM      |     LLM     |  Fine-tuning  |                      Code/Project                      |
@@ -254,7 +254,7 @@ Timeline of RS-STVLMs:
 
 
 
-## 📊 Others <a id="Others"></a>
+## 💻 Others <a id="Others"></a>
 ### CLIP Model in Remote Sensing
 |  Time   | Model Name | Paper Title                                                                                                                                               |             Code/Project              |
 |:-------:|:----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------:|
