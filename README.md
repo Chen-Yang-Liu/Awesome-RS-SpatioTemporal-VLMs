@@ -61,7 +61,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 Timeline of RS-STVLMs:
 
-![Alt Text](fig/overview3.png)
+![Alt Text](fig/overview_3.png)
 
 ## 📖 Table of Contents
 - [📚 Remote Sensing Spatio-Temporal Vision-language Tasks and Methods](#methods-a-survey)
