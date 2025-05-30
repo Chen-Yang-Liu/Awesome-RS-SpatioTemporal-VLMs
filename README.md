@@ -257,7 +257,7 @@ Timeline of RS-STVLMs:
 
 
 ## 💻 Others <a id="Others"></a>
-### CLIP Model in Remote Sensing
+### Some CLIP Models in Remote Sensing
 |  Time   | Model Name | Paper Title                                                                                                                                               |             Code/Project              |
 |:-------:|:----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------:|
 | 2023.06 | RemoteCLIP | [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10504785)  |               [link](https://github.com/ChenDelong1999/RemoteCLIP)                |
