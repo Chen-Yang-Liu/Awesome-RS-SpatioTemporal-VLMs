@@ -255,7 +255,7 @@ Timeline of RS-STVLMs:
 | EarthDial | 2024.12 | 11.11 Million | - | 1~4 | fMoW, TreeSatAI-Time-Series, MUDS, xBD, QuakeSet | Manual & Auto. | [Link](https://huggingface.co/datasets/akshaydudhane/EarthDial-Dataset) |
 | UniRS | 2024.12 | 318.8 K | - | 1~T (T>2) | LEVIR-CC, ERA-Video | Auto. | [Link](https://github.com/IntelliSensing/UniRS) |
 | Falcon_SFT | 2025.03 | 78 Million | 5.6 Million | 1~2 | CDD, EGY-BCD, HRSCD, LEVIR-CD, MSBC, MSOSCD, NJDS, S2Looking, SYSU-CD, WHU-CD | Auto. | [Link](https://github.com/TianHuiLab/Falcon) |
-|DVL-Suite |2025.05
+|DVL-Suite |2025.05 |69,926 |15,063  | 6.9 (Average) | U.S. National Agriculture Imagery Program (NAIP) | Manual & Auto.  | N/A |
 ....
 
 
