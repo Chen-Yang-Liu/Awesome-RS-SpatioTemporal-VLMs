@@ -186,7 +186,7 @@ Timeline of RS-STVLMs:
 | 2024.10  |  TEOChat   |       bbox       | [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)                            | [link](https://github.com/ermongroup/TEOChat)  |
 | 2024.10  |   VisTA    |       mask       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828) |    [link](https://github.com/like413/VisTA)    |
 | 2024.12  |  RSUniVLM  |       mask       | [RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](http://arxiv.org/abs/2412.05679)   |    [link](https://github.com/xuliu-cyber/RSUniVLM)    |
-| 2024.12  |  EarthDial |       bbox       | [EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](http://arxiv.org/abs/2412.15190)                               |                          N/A                          | 
+| 2024.12  |  EarthDial |       bbox       | [EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](http://arxiv.org/abs/2412.15190)                               |       [link](https://github.com/hiyamdebary/EarthDial) | 
 | 2025.03  |    Falcon  |       mask       | [Falcon: A Remote Sensing Vision-Language Foundation Model](http://arxiv.org/abs/2503.11070)                                                  |     [link](https://github.com/TianHuiLab/Falcon)      | 
 | 2025.03  |  GeoRSMLLM |       mask       | [GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing](http://arxiv.org/abs/2503.12490)    |            N/A                                        |
 | ........ 
