@@ -1,9 +1,14 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls)
 <br />
+
+<div align="center">
+   <h1>
+  <!--   <img src="images/logo.png" alt="Logo" width="47" height="30" style="margin-right: 10px;"> -->
+    <a href="https://ieeexplore.ieee.org/document/10988859">Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey</a>
+  </h1>
+
 <p align="center">
-  <h1 align="center">Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey</h1>
-  <p align="center">
     <br />
     <a href="https://chen-yang-liu.github.io/"><strong>Chenyang Liu </strong></a>
     ·
@@ -21,12 +26,12 @@
   </p>
 
   <p align="center">
-    <a href='https://arxiv.org/abs/2412.02573'>
-      <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+   <a href='https://ieeexplore.ieee.org/document/11159545'>
+      <img src='https://img.shields.io/badge/IEEE GRSM-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='GRSM PDF'>
     </a>
-<!--     <a href='https://ieeexplore.ieee.org/document/'>
-      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>
-    </a> -->
+    <a href='https://arxiv.org/abs/2412.02573'>
+      <img src='https://img.shields.io/badge/ArXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Arxiv PDF'>
+    </a>
   </p>
 <br />
 
