@@ -322,15 +322,15 @@ Timeline of RS-STVLMs:
 If you find our survey and repository useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{liu2024remotesensingtemporalvisionlanguage,
-      title={Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey}, 
-      author={Chenyang Liu and Jiafan Zhang and Keyan Chen and Man Wang and Zhengxia Zou and Zhenwei Shi},
-      year={2024},
-      eprint={2412.02573},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.02573}, 
-}
+@ARTICLE{liu2024RSSTVLMsurvey,
+  author={Liu, Chenyang and Zhang, Jiafan and Chen, Keyan and Wang, Man and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Remote Sensing Spatiotemporal Vision–Language Models: A comprehensive survey}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={2-42},
+  doi={10.1109/MGRS.2025.3598283}}
 ```
 
 ## 🐲 Contact <a id="Contact"></a>
